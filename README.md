@@ -1,6 +1,6 @@
 # Todo App
 
-A simple note-taking application built with Vue.js.
+A simple todo list application built with Vue.js.
 
 ## Requirements
 
